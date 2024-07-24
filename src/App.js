@@ -54,18 +54,18 @@ class App extends React.Component {
     })
   }
 
-  constructor(){
-    super();
-    //alert("Ana el constructor!!!!!!!")
+  // constructor(){
+  //   super();
+  //   alert("Ana el constructor!!!!!!!")
 
 
-    // setInterval(()=>{
-    //   this.setState({
-    //     names: [...this.state.names, "Rony"]
-    //   })
-    // }, 2000);
+  //   setInterval(()=>{
+  //     this.setState({
+  //       names: [...this.state.names, "Rony"]
+  //     })
+  //   }, 2000);
 
-  }
+  // }
 }
 
 export default App;
